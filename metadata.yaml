@@ -1,0 +1,68 @@
+_repo: The-True-History-of-Tom-and-JerryStart-to-the-Finish-_43504
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+  - agent_name: Cruikshank, Robert
+    aliases:
+    - Cruikshank, Isaac Robert
+    - Cruikshank, R. (Robert)
+    - Cruikshank, I. Robert (Isaac Robert)
+    - Cruikshank, I. R. (Isaac Robert)
+    birthdate: 1789
+    deathdate: 1856
+    gutenberg_agent_id: '9022'
+    url: http://www.gutenberg.org/2009/agents/9022
+covers:
+- cover_type: archival
+  image_path: 43504-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Moncrieff, W. T. (William Thomas)
+    aliases:
+    - Moncrieff, William Thomas
+    - Moncrief, William Thomas
+    - Thomas, William Thomas
+    - Moncrieff, William T. (William Thomas)
+    - Moncrieff, William Gibbs Thomas
+    - Moncreiff, William Thomas
+    - Moncrieff, William George Thomas
+    - Moncieff, W. T.
+    birthdate: 1794
+    deathdate: 1857
+    gutenberg_agent_id: '42239'
+    url: http://www.gutenberg.org/2009/agents/42239
+  - agent_name: Egan, Pierce
+    birthdate: 1772
+    deathdate: 1849
+    gutenberg_agent_id: '9328'
+    url: http://www.gutenberg.org/2009/agents/9328
+  - agent_name: Hindley, Charles
+    deathdate: 1893
+    gutenberg_agent_id: '38658'
+    url: http://www.gutenberg.org/2009/agents/38658
+description: ''
+gutenberg_issued: '2013-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Humorous poetry, English'
+- !lcsh 'English wit and humor'
+- !lcsh 'Theater -- England -- History -- 19th century'
+- !lcsh 'Humorous stories, English'
+- !lcsh 'London (England) -- Social life and customs'
+title: "The True History of Tom & Jerry\r\nor, The Day and Night Scenes, of Life in\
+  \ London from the Start to the Finish!"
+url: http://www.gutenberg.org/ebooks/43504
